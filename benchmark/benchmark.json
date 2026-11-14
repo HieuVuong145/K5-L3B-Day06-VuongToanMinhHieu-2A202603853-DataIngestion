@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Chương trình đào tạo tích hợp cử nhân - kỹ sư hoặc cử nhân - thạc sĩ tại ĐHBK Hà Nội có thời gian thiết kế là bao nhiêu năm và khối lượng bao nhiêu tín chỉ?",
+    "expected_answer": "Thời gian thiết kế là 5,5 năm và khối lượng học tập 180 tín chỉ",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 6,
+    "evidence_quote": "thời gian thiết kế là 5,5 năm và khối lượng học tập 180 TC",
+    "filter": {
+      "chapter": "Chương I"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Một năm học tại Đại học Bách khoa Hà Nội được tổ chức thành mấy học kỳ chính và mỗi học kỳ gồm bao nhiêu tuần học?",
+    "expected_answer": "Hai học kỳ chính, mỗi học kỳ chính bao gồm 15 tuần học",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 7,
+    "evidence_quote": "Một năm học có hai học kỳ chính, mỗi học kỳ chính bao gồm 15 tuần học",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Một tín chỉ học tập tại ĐHBK Hà Nội được tính tương đương với bao nhiêu giờ học lý thuyết trên lớp?",
+    "expected_answer": "15 giờ học lý thuyết",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 8,
+    "evidence_quote": "15 giờ học lý thuyết",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Điểm học phần được quy đổi thành điểm chữ theo thang nào và điểm nào là điểm không đạt?",
+    "expected_answer": "Quy đổi thành điểm chữ (A+, A, B+, B, C+, C, D+, D, F), điểm F là không đạt",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 9,
+    "evidence_quote": "quy đổi thành điểm chữ theo quy tắc dưới đây, trừ trường hợp có một điểm thành phần là điểm liệt thì điểm học phần là điểm F",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Thời hạn sinh viên được quyền nộp đơn phúc tra hoặc khiếu nại điểm thi kết thúc học phần là bao lâu?",
+    "expected_answer": "Trong thời hạn 15 ngày làm việc kể từ ngày công bố điểm",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 10,
+    "evidence_quote": "thời hạn 15 ngày làm việc kể từ ngày công bố điểm",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Sinh viên đại học nào không được phép chuyển đến cơ sở đào tạo khác?",
+    "expected_answer": "Sinh viên năm thứ nhất, sinh viên năm cuối của khóa học và sinh viên đang bị xem xét buộc thôi học",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 11,
+    "evidence_quote": "Sinh viên năm thứ nhất, sinh viên năm cuối của khóa học và sinh viên đang bị xem xét buộc thôi học không được chuyển cơ sở đào tạo",
+    "filter": {
+      "chapter": "Chương I"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Khối lượng học tập sinh viên đại học phải đăng ký trong mỗi học kỳ chính là bao nhiêu tín chỉ?",
+    "expected_answer": "Tối thiểu 12 tín chỉ và tối đa 24 tín chỉ",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 12,
+    "evidence_quote": "Tối thiểu 12 TC và tối đa 24 TC",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Điều kiện về số tín chỉ còn nợ để sinh viên đại học được giao đồ án hoặc khóa luận tốt nghiệp là gì?",
+    "expected_answer": "Số tín chỉ còn nợ không quá 15 tín chỉ",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 14,
+    "evidence_quote": "Số TC còn nợ không quá 15 TC",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Điểm trung bình tích lũy toàn khóa học từ bao nhiêu thì sinh viên đại học được xếp hạng tốt nghiệp loại Xuất sắc?",
+    "expected_answer": "Điểm TBTL từ 3,60 đến 4,00",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 16,
+    "evidence_quote": "Loại Xuất sắc: Điểm TBTL từ 3,60 đến 4,00",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Hạng tốt nghiệp Xuất sắc hoặc Giỏi của sinh viên đại học bị giảm đi một mức khi nào?",
+    "expected_answer": "Khối lượng học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ hoặc bị kỷ luật từ mức cảnh cáo trở lên",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 16,
+    "evidence_quote": "học lại (điểm F) vượt quá 5% tổng số TC",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Tổng thời gian sinh viên đại học được nghỉ học tạm thời vì nhu cầu cá nhân là bao nhiêu học kỳ?",
+    "expected_answer": "Không quá 04 học kỳ chính đối với CTĐT 4 năm",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 16,
+    "evidence_quote": "Tổng thời gian nghỉ học tạm thời vì nhu cầu cá nhân không quá 04 học kỳ chính đối với CTĐT có thời gian thiết kế 4 năm",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Sinh viên đại học được đăng ký học chương trình thứ hai sớm nhất khi nào và cần đạt điểm TBTL tối thiểu bao nhiêu?",
+    "expected_answer": "Sớm nhất khi được xếp trình độ năm thứ hai và có điểm TBTL đạt từ 2,50 trở lên",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 18,
+    "evidence_quote": "xếp trình độ năm thứ hai của chương trình thứ nhất và phải đạt một trong hai điều kiện sau: a) Có điểm TBTL đạt từ 2,50 trở lên",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Quy chế quy định có mấy mức cảnh báo học tập đối với sinh viên trình độ đại học?",
+    "expected_answer": "Có 2 mức cảnh báo học tập: Cảnh báo mức 1 và Cảnh báo mức 2",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 18,
+    "evidence_quote": "có 2 mức cảnh báo học tập: Cảnh báo mức 1 và Cảnh báo mức 2",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Trường hợp nào về cảnh báo học tập sẽ khiến sinh viên đại học bị buộc thôi học?",
+    "expected_answer": "Bị cảnh báo học tập mức 2 ở hai học kỳ chính liên tiếp",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 19,
+    "evidence_quote": "Bị cảnh báo học tập mức 2 ở hai học kỳ chính liên tiếp",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Chương trình đào tạo kỹ sư chuyên sâu đặc thù có thời gian thiết kế và khối lượng học tập là bao nhiêu?",
+    "expected_answer": "Thời gian thiết kế là 1,5 năm và khối lượng học tập 60 tín chỉ",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 20,
+    "evidence_quote": "CTĐT kỹ sư có thời gian thiết kế là 1,5 năm và khối lượng học tập 60 TC",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Khối lượng học tập toàn khóa của chương trình đào tạo trình độ thạc sĩ tại ĐHBK Hà Nội là bao nhiêu tín chỉ?",
+    "expected_answer": "Khối lượng học tập từ 60 đến 65 tín chỉ",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 23,
+    "evidence_quote": "CTĐT thạc sĩ có khối lượng học tập từ 60 đến 65 TC",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Chuẩn ngoại ngữ đầu ra để học viên được bảo vệ luận văn thạc sĩ là tương đương bậc mấy?",
+    "expected_answer": "Tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 24,
+    "evidence_quote": "Đạt chuẩn ngoại ngữ đầu ra tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc",
+    "filter": {
+      "chapter": "Chương IV"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Điểm luận văn thạc sĩ được đánh giá theo thang điểm nào và đạt yêu cầu ở mức điểm tối thiểu bao nhiêu?",
+    "expected_answer": "Thang điểm 10 và đạt từ 5,5 điểm trở lên",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 25,
+    "evidence_quote": "thang điểm 10, làm tròn đến 01 chữ số thập phân. Luận văn đạt yêu cầu khi điểm luận văn đạt từ 5,5 điểm trở lên",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Thời gian đào tạo tiêu chuẩn đối với nghiên cứu sinh tiến sĩ có bằng thạc sĩ và có bằng cử nhân là bao lâu?",
+    "expected_answer": "03 năm đối với người có bằng thạc sĩ và 04 năm đối với người có bằng cử nhân",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 28,
+    "evidence_quote": "03 năm đối với người có bằng thạc sĩ và 04 năm đối với người có bằng cử nhân",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Quy định về việc chuyển chương trình đào tạo tại Điều 17 được chính thức áp dụng từ thời điểm nào?",
+    "expected_answer": "Áp dụng từ học kỳ 2 năm học 2024-2025",
+    "gold_source_id": "quy_che_dao_tao_dhbk_2025",
+    "gold_page": 34,
+    "evidence_quote": "học kỳ 2 năm học 2024-2025",
+    "filter": null
+  }
+]
