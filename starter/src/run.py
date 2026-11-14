@@ -2,6 +2,7 @@
 import csv
 import json
 import os
+import sys
 import time
 from pathlib import Path
 from dotenv import load_dotenv
@@ -12,6 +13,21 @@ from .chunking import fixed_size, by_paragraph
 from .embeddings import OpenRouterEmbedder
 from .store import PgVectorStore
 from .evaluation import evaluate_query, summarize
+
+
+class TeeLogger:
+    """Tee stdout to both console and a log file."""
+    def __init__(self, filepath: Path) -> None:
+        self.terminal = sys.stdout
+        self.log = open(filepath, "w", encoding="utf-8")
+
+    def write(self, message: str) -> None:
+        self.terminal.write(message)
+        self.log.write(message)
+
+    def flush(self) -> None:
+        self.terminal.flush()
+        self.log.flush()
 
 
 def main() -> None:
@@ -32,6 +48,9 @@ def main() -> None:
     results_dir.mkdir(parents=True, exist_ok=True)
     artifacts_dir.mkdir(parents=True, exist_ok=True)
     data_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Tee execution logs directly into results/pipeline.log
+    sys.stdout = TeeLogger(results_dir / "pipeline.log")
     
     print("=" * 60)
     print("DAY 06 · DATA INGESTION ENGINEERING BENCHMARK (OPENROUTER API)")
