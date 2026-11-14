@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"doc_id,source,page",none,openai/text-embedding-3-small,"Cắt cố định dễ làm cụt điều khoản pháp lý, giảm độ mạch lạc và Hit@3",3/15,3/15,1/5,1/5,"164 chunks, 14.0s, cost ~$0.00075"
+B,by_paragraph,800,0,"doc_id,source,page,chapter",none,openai/text-embedding-3-small,"Cắt theo đoạn/khoản giữ trọn vẹn ngữ nghĩa điều luật, tăng Hit@1 và Hit@3",2/15,3/15,1/5,1/5,"113 chunks, 9.45s, cost ~$0.00075"
+C,by_paragraph,800,0,"doc_id,source,page,chapter",chapter_filter,openai/text-embedding-3-small,Lọc theo chương giúp khu biệt đúng phạm vi đối tượng (đại học/thạc sĩ/kỹ sư),2/15,3/15,1/5,1/5,"Tận dụng index B + SQL filter, chi phí tối ưu"
