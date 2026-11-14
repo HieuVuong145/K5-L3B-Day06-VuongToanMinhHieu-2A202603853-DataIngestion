@@ -1,0 +1,244 @@
+{
+  "audit_metadata": {
+    "evaluation_standard": "Guide, Benchmark"
+  },
+  "coherence": {
+    "avg_A": 1.0,
+    "avg_B": 2.0,
+    "rubric_scale": {
+      "0": "Bị cắt giữa ý/thiếu chủ thể làm không hiểu",
+      "1": "Hiểu một phần, thiếu ngữ cảnh/cắt lưng chừng mệnh đề",
+      "2": "Tự hiểu được và giữ trọn vẹn ngữ nghĩa điều khoản"
+    },
+    "samples": [
+      {
+        "position": 1,
+        "page": 5,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "BỘ GIÁO DỤC VÀ ĐÀO TẠO ĐẠI HỌC BÁCH KHOA HÀ NỘI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT N..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "BỘ GIÁO DỤC VÀ ĐÀO TẠO ĐẠI HỌC BÁCH KHOA HÀ NỘI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT N..."
+        }
+      },
+      {
+        "position": 2,
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "2\n\nưu hóa thời gian đào tạo cho người học. CTĐT tích hợp cử nhân-kỹ sư, cử nhân-..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "2..."
+        }
+      },
+      {
+        "position": 3,
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "3\n\n8. Các CTĐT cấp bằng cử nhân, kỹ sư, thạc sĩ, tiến sĩ được công bố công khai ..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "3..."
+        }
+      },
+      {
+        "position": 4,
+        "page": 8,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "4\n\nĐối với hoạt động dạy học trên lớp, một TC yêu cầu thực hiện tối thiểu 15 giờ..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "4..."
+        }
+      },
+      {
+        "position": 5,
+        "page": 9,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "5\n\nĐối với CTĐT theo hình thức VLVH, việc đánh giá kết quả học tập được thực hi..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "5..."
+        }
+      },
+      {
+        "position": 6,
+        "page": 10,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "6\n\n5. Giảng viên phụ trách học phần trực tiếp chấm thi kết thúc học phần và nộp..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "6..."
+        }
+      },
+      {
+        "position": 7,
+        "page": 11,
+        "chapter": "Chương I: Những quy định chung",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "7\n\nquyết khiếu nại về điểm thi theo quy định của ĐHBK Hà Nội. Điểm sau phúc tra..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "7..."
+        }
+      },
+      {
+        "position": 8,
+        "page": 12,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "8\n\nCHƯƠNG II ĐÀO TẠO ĐẠI HỌC\n\nĐiều 10. Đăng ký học tập chương trình đại học\n\n1. ..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "8..."
+        }
+      },
+      {
+        "position": 9,
+        "page": 13,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "9\n\nc) Xem xét mở lớp dưới 5 sinh viên đăng ký học lại học phần dưới hình thức là..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "9..."
+        }
+      },
+      {
+        "position": 10,
+        "page": 14,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "strategy_A": {
+          "score": 1,
+          "reason": "Bị cắt ngang điều khoản/mệnh đề ở mốc 500 ký tự",
+          "preview": "10\n\ncác học phần về ngoại ngữ cơ bản, Giáo dục thể chất, Giáo dục quốc phòng -an..."
+        },
+        "strategy_B": {
+          "score": 2,
+          "reason": "Giữ trọn vẹn ngữ nghĩa của toàn bộ điều khoản/khoản luật",
+          "preview": "10..."
+        }
+      }
+    ]
+  },
+  "metadata_usefulness": {
+    "total_inspected_test_records": 15,
+    "valid_metadata_records_A": 15,
+    "valid_metadata_records_B": 15,
+    "valid_metadata_records_C": 15,
+    "metadata_completeness_pct": 100.0,
+    "filter_compliance_A": "N/A (no filter)",
+    "filter_compliance_B": "N/A (no filter)",
+    "filter_compliance_C": "1/1 (100.0%)",
+    "analysis": {
+      "tracing_fields": "Các trường document_id, source (URL chính thức), page (5-34) giúp người dùng và LLM định vị tức thời đoạn văn bản nguồn trên văn bản gốc.",
+      "filtering_field": "Trường chapter (nhận diện theo 8 Chương La Mã) cho phép khoanh vùng phân hệ đào tạo, triệt tiêu việc nhầm lẫn điều khoản giữa cử nhân, thạc sĩ và tiến sĩ.",
+      "limitation": "Nếu văn bản có các điều khoản nằm vắt giữa hai trang (cross-page articles), việc chỉ lọc theo page đơn lẻ có thể bỏ sót phần đuôi của điều khoản."
+    }
+  },
+  "grounding_quality": {
+    "avg_A": 0.6,
+    "avg_B": 0.6,
+    "avg_C": 0.6,
+    "level_counts": {
+      "level_0": 2,
+      "level_1": 2,
+      "level_2": 1
+    },
+    "rubric_scale": {
+      "0": "Không có bằng chứng hoặc trượt hoàn toàn chủ đề",
+      "1": "Có bằng chứng liên quan nhưng thiếu điều kiện/ngữ cảnh chi tiết",
+      "2": "Đủ bằng chứng để trả lời chính xác và truy nguồn đầy đủ"
+    },
+    "details": [
+      {
+        "question_id": "q16",
+        "question": "Khối lượng học tập toàn khóa của chương trình đào tạo trình độ thạc sĩ tại ĐHBK Hà Nội là bao nhiêu tín chỉ?",
+        "grounding_A": 0,
+        "grounding_B": 0,
+        "grounding_C": 0,
+        "reason": "Top-3 chunks rơi vào Chương I và II (cử nhân), không chứa thông tin số tín chỉ thạc sĩ."
+      },
+      {
+        "question_id": "q17",
+        "question": "Chuẩn ngoại ngữ đầu ra để học viên được bảo vệ luận văn thạc sĩ là tương đương bậc mấy?",
+        "grounding_A": 1,
+        "grounding_B": 1,
+        "grounding_C": 1,
+        "reason": "Đã truy xuất đúng Điều 31 về điều kiện bảo vệ luận văn thạc sĩ nhưng phần chi tiết về Khung 6 bậc (bậc 4/6) nằm ở khoản sau của trang kế tiếp."
+      },
+      {
+        "question_id": "q18",
+        "question": "Điểm luận văn thạc sĩ được đánh giá theo thang điểm nào và đạt yêu cầu ở mức điểm tối thiểu bao nhiêu?",
+        "grounding_A": 0,
+        "grounding_B": 0,
+        "grounding_C": 0,
+        "reason": "Top-3 chunks trả về quy định nộp luận văn và hội đồng, trượt khoản thang điểm 10 và mức tối thiểu 5,5."
+      },
+      {
+        "question_id": "q19",
+        "question": "Thời gian đào tạo tiêu chuẩn đối với nghiên cứu sinh tiến sĩ có bằng thạc sĩ và có bằng cử nhân là bao lâu?",
+        "grounding_A": 1,
+        "grounding_B": 1,
+        "grounding_C": 1,
+        "reason": "Truy xuất được bảng thời gian đào tạo chuẩn (3 năm và 4 năm) ở Điều 2, nhưng thiếu các quy định chi tiết về thời gian gia hạn tại Điều 39."
+      },
+      {
+        "question_id": "q20",
+        "question": "Quy định về việc chuyển chương trình đào tạo tại Điều 17 được chính thức áp dụng từ thời điểm nào?",
+        "grounding_A": 2,
+        "grounding_B": 2,
+        "grounding_C": 2,
+        "reason": "Top-1 chunk chứa nguyên văn Điều 48 Khoản 2 quy định thời điểm áp dụng từ năm học 2025-2026, đủ để trả lời chính xác 100%."
+      }
+    ]
+  },
+  "data_strategy_impact": {
+    "comparison_A_vs_B": "Chiến lược B giảm 31.1% số chunk (113 so với 164), tăng điểm mạch lạc (Coherence) từ 1.0 lên 2.0/2, giữ trọn vẹn các điều khoản pháp lý.",
+    "comparison_B_vs_C": "Chiến lược C tận dụng nguyên vẹn kho vector của B, bổ sung lọc SQL metadata giúp đảm bảo 100% tuân thủ ngữ cảnh phân hệ đào tạo cho các câu hỏi chuyên sâu.",
+    "failure_case_1": "Câu q15 (tín chỉ kỹ sư chuyên sâu) thất bại ở A và B do nhầm sang kỹ sư tích hợp ở Chương I. Khắc phục ở C nhờ filter chapter='Chương III'.",
+    "failure_case_2": "Câu q10 (hạ mức xếp loại tốt nghiệp) thất bại do Dense Semantic Embedding bị phân tán bởi các số liệu GPA/CPA dày đặc giữa các mức xếp loại, cần Hybrid Search (BM25 + Vector) để cải thiện."
+  }
+}

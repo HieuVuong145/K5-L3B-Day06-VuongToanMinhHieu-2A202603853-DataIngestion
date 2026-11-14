@@ -1,0 +1,1268 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "Chương trình đào tạo tích hợp cử nhân - kỹ sư hoặc cử nhân - thạc sĩ tại ĐHBK Hà Nội có thời gian thiết kế là bao nhiêu năm và khối lượng bao nhiêu tín chỉ?",
+    "gold_page": 6,
+    "evidence_quote": "thời gian thiết kế là 5,5 năm và khối lượng học tập 180 TC",
+    "filter_used": {
+      "chapter": "Chương I"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_rank": 1,
+    "matched_chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c0",
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "2\n\nưu hóa thời gian đào tạo cho người học. CTĐT tích hợp cử nhân-kỹ sư, cử nhân-thạc sĩ có thời gian thiết kế là 5,5 năm và khối lượng học tập 180 TC. CTĐT tích hợp bao gồm hai bậc trình độ: Cử nhân (thời gian đào tạo 4 năm, trình độ đại học, cấp bằng cử nhân ) và kỹ sư (thời gian đào tạo 1,5 năm, cấp bằng kỹ sư trình độ bậc 7) hoặc thạc sĩ (thời gian đào tạo 1,5 năm, cấp bằng thạc sĩ). Tính tích hợp được thể hiện bằng việc thiết kế các mô đun học phần trong chương trình cử nhân có kiến thức nền",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.7433475235930552
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "hư sau: Chương trình Người học Thời gian Khối lượng tối thiểu Cử nhân Tốt nghiệp THPT 4 năm 132 tín chỉ Kỹ sư Tốt nghiệp cử nhân theo chương trình tích hợp 1,5 năm 48 tín chỉ Tốt nghiệp cử nhân 2 năm 60 tín chỉ Thạc sĩ Tốt nghiệp cử nhân 2 năm 60 tín chỉ Tốt nghiệp cử nhân theo chương trình tích hợp 1,5 năm 48 tín chỉ Tiến sĩ Tốt nghiệp thạc sĩ 3 năm 106 tín chỉ Tốt nghiệp đại học 4 năm 151 tín chỉ\n\n7. Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 2750,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.6814238135355954
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "h cấp bằng kỹ sư và thạc sĩ.\n\nb) Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian thiết kế để hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng tín chỉ được công nhận và miễn trừ cho người học. Thời gian chậm tiến độ không được vượt quá 3 học kỳ chính và không vượt quá 2 lần thời gian thiết kế để hoàn thành khóa học.\n\nc) Thời gian đào tạo chuẩn của trình độ tiến sĩ từ 3 năm đến 4 năm.",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6459597859202221
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "Một năm học tại Đại học Bách khoa Hà Nội được tổ chức thành mấy học kỳ chính và mỗi học kỳ gồm bao nhiêu tuần học?",
+    "gold_page": 7,
+    "evidence_quote": "Một năm học có hai học kỳ chính, mỗi học kỳ chính bao gồm 15 tuần học",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p26_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 26,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "do tại khoản 1 và khoản 2 Điều này, học viên phải học ít nhất một học kỳ tại ĐHBK Hà Nội, không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật, mới được xem xét cho nghỉ học tạm thời. Thời gian nghỉ học tối đa là 12 tháng và được tính vào thời gian học tập.\n\n4. Học viên phải nộp đơn đề nghị trở lại học chậm nhất 01 tuần trước khi bắt đầu học kỳ mới. Đối với trường hợp được điều động vào lực lượng vũ trang hoặc đi làm nghĩa vụ quốc gia, quốc tế, học viên phải nộp kèm theo giấ",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 2300,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.5736787951733663
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "tập, rèn luyện đã tích lũy của người học.\n\nĐiều 3. Thời gian và kế hoạch học tập\n\n1. ĐHBK Hà Nội tổ chức đào tạo theo năm học và học kỳ. Một năm học bao gồm hai học kỳ chính và một học kỳ hè. Học kỳ hè được tổ chức theo yêu cầu của người học và khả năng bố trí giảng viên của trường/khoa/viện phụ trách giảng dạy.\n\n2. Lịch đăng ký học tập, thời khóa biểu, lịch thi và kế hoạch xét công nhận tốt nghiệp trong năm học tuân theo Khung kế hoạch năm học của ĐHBK Hà Nội.\n\n3. Căn cứ kế hoạch học tập chuẩn",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.5222714100439849
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p8_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 8,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "4\n\nĐối với hoạt động dạy học trên lớp, một TC yêu cầu thực hiện tối thiểu 15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận; 45 giờ thực tập tại cơ sở; 45 giờ làm tiểu luận, bài tập lớn hoặc đồ án, khóa luận tốt nghiệp. Một tuần làm đồ án toàn thời gian tương đương 1 TC; một tuần thực tập toàn thời gian tương đương 0,5-0,6 TC.\n\n2. Học phần là đơn vị cấu thành chương trình học tập và được thực hiện trọn vẹn trong một học kỳ. Một học phần có khối lượng từ 1 TC đến 4 TC, trừ một số học phần",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5209622429586682
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "Một tín chỉ học tập tại ĐHBK Hà Nội được tính tương đương với bao nhiêu giờ học lý thuyết trên lớp?",
+    "gold_page": 8,
+    "evidence_quote": "15 giờ học lý thuyết",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "đa được phép học tại ĐHBK Hà Nội không quá 2 lần thời gian theo kế hoạch học tập chuẩn hoặc thời gian thiết kế đối với đào tạo liên thông.\n\nĐiều 4. Tín chỉ và học phần\n\n1. Tín chỉ là đơn vị đo khối lượng học tập. Một TC được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá.",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 2645,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.6404362637596015
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "tập, rèn luyện đã tích lũy của người học.\n\nĐiều 3. Thời gian và kế hoạch học tập\n\n1. ĐHBK Hà Nội tổ chức đào tạo theo năm học và học kỳ. Một năm học bao gồm hai học kỳ chính và một học kỳ hè. Học kỳ hè được tổ chức theo yêu cầu của người học và khả năng bố trí giảng viên của trường/khoa/viện phụ trách giảng dạy.\n\n2. Lịch đăng ký học tập, thời khóa biểu, lịch thi và kế hoạch xét công nhận tốt nghiệp trong năm học tuân theo Khung kế hoạch năm học của ĐHBK Hà Nội.\n\n3. Căn cứ kế hoạch học tập chuẩn",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.5766413881544289
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p22_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 22,
+        "chapter": "Chương III: Quy định đào tạo chương trình kỹ sư chuyên sâu",
+        "text": "18\n\n6. Khi chế độ nghỉ tạm thời có hiệu lực thì các học phần đã đăng ký học trong học kỳ sẽ bị hủy và tính học phí theo quy định tại khoản 4 Điều 9 Quy chế này, ngoại trừ các trường hợp được quy định tại khoản 1 và khoản 2 Điều 25 Quy chế này sẽ do Giám đốc ĐHBK Hà Nội quyết định việc tính học phí.\n\n7. Học viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Học viên đã có quyết định cho thôi học sẽ không được",
+        "metadata": {
+          "chapter": "Chương III: Quy định đào tạo chương trình kỹ sư chuyên sâu",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5687305890695572
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "Điểm học phần được quy đổi thành điểm chữ theo thang nào và điểm nào là điểm không đạt?",
+    "gold_page": 9,
+    "evidence_quote": "quy đổi thành điểm chữ theo quy tắc dưới đây, trừ trường hợp có một điểm thành phần là điểm liệt thì điểm học phần là điểm F",
+    "filter_used": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_rank": 1,
+    "matched_chunk_id": "A_quy_che_dao_tao_dhbk_2025_p9_c4",
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p9_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 9,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "iểm chữ theo quy tắc dưới đây, trừ trường hợp có một điểm thành phần là điểm liệt thì điểm học phần là điểm F. Để tính các điểm trung bình, điểm học phần được quy đổi thành điểm số theo thang 4. Điểm học phần theo thang 10 0,0÷ 3,9 4,0÷ 4,9 5,0÷ 5,4 5,5÷ 6,4 6,5÷ 6,9 7,0÷ 7,9 8,0÷ 8,4 8,5÷ 9,4 9,5÷ 10 Điểm chữ quy đổi F D D+ C C+ B B+ A A+ Điểm số quy đổi 0 1 1,5 2,0 2,5 3,0 3,5 4,0 4,0\n\n7. Điểm đạt của học phần được quy định như sau:",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 2238,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.6899164529267375
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p10_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 10,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "ụng trong các trường hợp sau và không quy đổi được thành điểm số để tính điểm trung bình học tập:\n\na) Điểm I: điểm học phần chưa hoàn thiện do được hoãn thi đúng quy định.\n\nb) Điểm X: điểm học phần chưa hoàn thiện do thiếu dữ liệu đánh giá.\n\nc) Điểm R: điểm học phần được miễn học và công nhận TC.\n\nd) Điểm P: áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập.\n\nđ) Điểm W: điểm học phần đã rút đăng ký học phần trong thời gian quy định.\n\nĐiều 6. Hoãn thi, miễn thi, phú",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.6598786175597752
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p9_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 9,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "hần đồ án tốt nghiệp/khóa luận tốt nghiệp cử nhân, đồ án tốt nghiệp kỹ sư được coi là điểm liệt;\n\nb) Điểm số dưới 3 đối với các học phần khác với quy định tại điểm a khoản 5 Điều này được coi là điểm liệt;\n\nc) Trường hợp người học không dự thi đúng lịch thi đã ấn định và không có lý do chính đáng thì điểm thi là điểm 0.\n\n6. Điểm học phần được tính từ tổng điểm thành phần với trọng số tương ứng, làm tròn tới một chữ số thập phân và quy đổi thành điểm chữ theo quy tắc dưới đây, trừ trường hợp có m",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6488745011943918
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "Thời hạn sinh viên được quyền nộp đơn phúc tra hoặc khiếu nại điểm thi kết thúc học phần là bao lâu?",
+    "gold_page": 10,
+    "evidence_quote": "thời hạn 15 ngày làm việc kể từ ngày công bố điểm",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p10_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 10,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "ột học phần (đã học và đã đóng học phí) do bị ốm, tai nạn hoặc vì lý do chính đáng thì được phép hoãn thi và được dự thi cuối kỳ học phần đó trong thời hạn 2 học kỳ chính tiếp theo để hoàn thiện điểm, nếu không điểm h ọc phần là điểm F.\n\n4. Người học có thể đề nghị phúc tra hoặc khiếu nại điểm trong thời hạn 7 ngày kể từ khi điểm học phần được cập nhật vào tài khoản học tập của người học. Không áp dụng phúc tra hoặc khiếu nại điểm với các học phần được tổ chức thi theo hình thức vấn đáp hoặc đán",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6800422822972407
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p10_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 10,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "ời gian quy định.\n\nĐiều 6. Hoãn thi, miễn thi, phúc tra và khiếu nại điểm\n\n1. Người học được thi cuối kỳ một lần đối với mỗi học phần đã đăng ký học trong học kỳ (kể cả trường hợp có điểm quá trình là điểm liệt) và không có lần thi lại.\n\n2. Người học không dự thi giữa kỳ do bị ốm, tai nạn hoặc vì lý do chính đáng khác được giảng viên bố trí thi bù giữa kỳ hoặc thực hiện các nội dung kiểm tra khác thay thế.\n\n3. Người học không thể dự thi cuối kỳ một học phần (đã học và đã đóng học phí) do bị ốm,",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.650349812327119
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p15_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 15,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ất, trong thời hạn tối đa 03 năm kể từ khi hết thời hạn học tập được phép đăng ký học để hoàn thiện các học phần còn thiếu này và đề nghị xét công nhận tốt nghiệp.\n\n6. Sinh viên không tốt nghiệp được quyền đề nghị cấp chứng nhận với các học phần đã tích lũy trong CTĐT.",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2519,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.6382046729148665
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "Sinh viên đại học nào không được phép chuyển đến cơ sở đào tạo khác?",
+    "gold_page": 11,
+    "evidence_quote": "Sinh viên năm thứ nhất, sinh viên năm cuối của khóa học và sinh viên đang bị xem xét buộc thôi học không được chuyển cơ sở đào tạo",
+    "filter_used": {
+      "chapter": "Chương I"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_rank": 1,
+    "matched_chunk_id": "A_quy_che_dao_tao_dhbk_2025_p11_c0",
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p11_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 11,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "7\n\nĐiều 8. Chuyển cơ sở đào tạo khác\n\n1. Sinh viên đại học chuyển đến học tại một cơ sở đào tạo khác phải được sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến. Sinh viên năm thứ nhất, sinh viên năm cuối của khóa học và sinh viên đang bị xem xét buộc thôi học không được chuyển cơ sở đào tạo.\n\n2. Học viên thạc sĩ không thể tiếp tục học tập tại ĐHBK Hà Nội vì lý do chuyển nơi cư trú hoặc chuyển nơi công tác sang tỉnh khác được chuyển đến học tại một cơ sở đào tạo khác (đan",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.6867268362941531
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p11_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 11,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "ược chuyển đến học tại một cơ sở đào tạo khác (đang đào tạo đúng ngành trình độ thạc sĩ) nếu có sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến. Học viên đang học ở học kỳ cuối của khóa học hoặc đang trong thời gian bị kỷ luật từ cảnh cáo trở lên không được chuyển cơ sở đào tạo.\n\n3. NCS có thời hạn học tập tại ĐHBK Hà Nội còn tối thiểu 12 tháng (theo quyết định công nhận NCS) được chuyển đến một cơ sở đào tạo khác (đang đào tạo ngành tương ứng ở trình độ tiến sĩ) nếu có",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.6451093260111141
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p11_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 11,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "đào tạo ngành tương ứng ở trình độ tiến sĩ) nếu có sự đồng ý của Giám đốc ĐHBK Hà Nội và thủ trưởng cơ sở đào tạo chuyển đến.\n\nĐiều 9. Học phí\n\n1. Người học có nghĩa vụ nộp học phí đầy đủ và đúng thời hạn theo quy định.\n\n2. Người học không nộp đủ học phí sau thời gian quy định tại khoản 1 Điều này sẽ bị đình chỉ đăng ký học tập một học kỳ kế tiếp.\n\n3. Người học thuộc CTĐT cử nhân, kỹ sư có đơn đề nghị rút học phần trong khoảng thời gian 7 tuần đầu của học kỳ, nếu được giải quyết theo nguyện vọng",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.5953377423774382
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "Khối lượng học tập sinh viên đại học phải đăng ký trong mỗi học kỳ chính là bao nhiêu tín chỉ?",
+    "gold_page": 12,
+    "evidence_quote": "Tối thiểu 12 TC và tối đa 24 TC",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p12_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 12,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "8\n\nCHƯƠNG II ĐÀO TẠO ĐẠI HỌC\n\nĐiều 10. Đăng ký học tập chương trình đại học\n\n1. Đăng ký học tập là quy trình bắt buộc của sinh viên cho mỗi học kỳ, trừ các sinh viên mới nhập học được xếp thời khóa biểu theo kế hoạch học tập chuẩn, không phải đăng ký học tập nhưng có thể tự điều chỉnh một số lớp. Sinh viên thực hiện quy trình đăng ký theo các mốc thời gian của Khung kế hoạch năm học. Quá trình đăng ký học tập gồm 3 giai đoạn:\n\na) Đăng ký học phần: sinh viên chọn đăng ký những học phần dự tính sẽ",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.6282678951030565
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p12_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 12,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "của học kỳ. Học kỳ hè không có đợt điều chỉnh đăng ký.\n\n2. Số lượng TC đăng ký:\n\na) Sinh viên không thuộc diện cảnh báo học tập theo quy định tại khoản 1 Điều 19 của Quy chế này được đăng ký tối đa 24 TC và tối thiểu 12 TC trong học kỳ chính, không áp dụng ngưỡng TC đăng ký tối thiểu với sinh viên trình độ năm cuối. Sinh viên được đăng ký tối đa 8 TC trong học kỳ hè.\n\nb) Sinh viên đang bị cảnh báo học tập bị giới hạn khối lượng đăng ký học tập theo quy định tại khoản 2 Điều 19 của Quy chế này.",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.614428829040729
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p12_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 12,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ới các học phần có nhiều lớp thành phần (lớp lý thuyết, bài tập, thực hành, thí nghiệm..), sinh viên phải đăng ký đủ các lớp thành phần theo yêu cầu.\n\nc) Điều chỉnh đăng ký: sinh viên có thể chuyển lớp, hủy lớp hoặc đăng ký lớp bổ sung, kể cả lớp với các học phần chưa đăng ký trước. Mỗi học kỳ chính có hai đợt điều chỉnh đăng ký, kết thúc trước khi bắt đầu học kỳ. Riêng việc đăng ký bổ sung vào các lớp học phần đã mở chỉ thực hiện trong tuần đầu của học kỳ. Học kỳ hè không có đợt điều chỉnh đăng",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.6017907590424301
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "Điều kiện về số tín chỉ còn nợ để sinh viên đại học được giao đồ án hoặc khóa luận tốt nghiệp là gì?",
+    "gold_page": 14,
+    "evidence_quote": "Số TC còn nợ không quá 15 TC",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p13_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 13,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ện đồ án tốt nghiệp/khóa luận tốt nghiệp tại một cơ sở trong nước (cơ sở giáo dục đại học, viện nghiên cứu, doanh nghiệp,…) hoặc tại một cơ sở đào tạo ở nước ngoài theo chương trình trao đổi sinh viên đã được ký kết nhưng phải bảo vệ tại ĐHBK Hà Nội để được đánh giá và cho đ iểm. Với sinh viên thuộc các CTĐT theo hình thức VLVH tại đơn vị liên kết, việc đánh giá đồ án tốt nghiệp/khóa luận tốt nghiệp được phép thực hiện tại đơn vị liên kết hoặc tại ĐHBK Hà Nội.\n\n4. Khối lượng tối đa được công nhậ",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.56006419729072
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p14_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 14,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "án tốt nghiệp cử nhân, khóa luận tốt nghiệp cử nhân (ĐATN).\n\n1. Sinh viên được giao đề tài ĐATN nếu đảm bảo các điều kiện học phần, bao gồm điều kiện học phần học trước, tiên quyết, song hành theo đề cương chi tiết của học phần.\n\n2. Kết quả ĐATN được đánh giá như sau:\n\na) Điểm ĐATN được tính từ các điểm thành phần theo trọng số 0,5 đối với điểm quá trình và trọng số 0,5 đối với điểm cuối kỳ.",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2194,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.5583654346899874
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p15_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 15,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "t nghiệp phải đăng ký theo các mốc thời gian quy định trong Khung kế hoạch năm học.\n\n2. Sinh viên có thể đăng ký học nhiều hơn yêu cầu của CTĐT, nhưng khi đăng ký tốt nghiệp chỉ chọn đủ hoặc không nhiều hơn 3 TC theo yêu cầu của chương trình. Các trường hợp ngoại lệ sẽ do Hội đồng xét tốt nghiệp quyết định và trình Giám đốc ĐHBK Hà Nội phê duyệt.\n\n3. Sinh viên có đủ các điều kiện sau đây thì được xét công nhận tốt nghiệp:\n\na) Đã hoàn thành đầy đủ các học phần theo yêu cầu của CTĐT trong thời gia",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.5508012493016026
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "Điểm trung bình tích lũy toàn khóa học từ bao nhiêu thì sinh viên đại học được xếp hạng tốt nghiệp loại Xuất sắc?",
+    "gold_page": 16,
+    "evidence_quote": "Loại Xuất sắc: Điểm TBTL từ 3,60 đến 4,00",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p16_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 16,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "12\n\nĐiều 15. Điểm trung bình toàn khóa và hạng tốt nghiệp đại học\n\n1. Điểm trung bình toàn khóa là điểm trung bình tích lũy toàn khóa tính theo các học phần đăng ký tốt nghiệp.\n\n2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6 Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của những sinh viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị giảm một mức:\n\na) Khối lượng của các học phần phải học lại v",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.6227467865399924
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p14_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 14,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ình độ Năm thứ nhất Năm thứ hai Năm thứ ba Năm thứ tư Năm thứ năm\n\n6. Sinh viên được xếp loại học lực theo học kỳ căn cứ điểm trung bình học kỳ và xếp loại học lực từ đầu khóa căn cứ điểm trung bình tích lũy như sau: GPA hoặc CPA < 1,0 1,0-1,99 2,0-2,49 2,5-3,19 3,2-3,59 3,6-4,0 Xếp loại Kém Yếu Trung bình Khá Giỏi Xuất sắc\n\n7. Trong trường hợp cần thiết, điểm trung bình học kỳ và điểm trung bình tích lũy đạt từ loại trung bình trở lên có thể được quy đổi tương đương sang thang điểm 10 theo quy",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.5949545603033138
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p21_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 21,
+        "chapter": "Chương III: Quy định đào tạo chương trình kỹ sư chuyên sâu",
+        "text": "cấp chứng nhận với các học phần đã tích lũy trong CTĐT.\n\nĐiều 24. Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư\n\n1. Điểm trung bình toàn khóa là điểm trung bình tích lũy của CTĐT kỹ sư, tính theo các học phần đăng ký tốt nghiệp.\n\n2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6 Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của học viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị g iảm một",
+        "metadata": {
+          "chapter": "Chương III: Quy định đào tạo chương trình kỹ sư chuyên sâu",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.5875213887537337
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "Hạng tốt nghiệp Xuất sắc hoặc Giỏi của sinh viên đại học bị giảm đi một mức khi nào?",
+    "gold_page": 16,
+    "evidence_quote": "học lại (điểm F) vượt quá 5% tổng số TC",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p16_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 16,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "12\n\nĐiều 15. Điểm trung bình toàn khóa và hạng tốt nghiệp đại học\n\n1. Điểm trung bình toàn khóa là điểm trung bình tích lũy toàn khóa tính theo các học phần đăng ký tốt nghiệp.\n\n2. Hạng tốt nghiệp được xếp dựa trên điểm trung bình toàn khóa như xếp loại học lực quy định tại khoản 6 Điều 12 của Quy chế này, riêng trong các trường hợp sau đây thì hạng tốt nghiệp của những sinh viên có điểm trung bình toàn khóa xếp loại giỏi trở lên sẽ bị giảm một mức:\n\na) Khối lượng của các học phần phải học lại v",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5816474012703028
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p14_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 14,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ình độ Năm thứ nhất Năm thứ hai Năm thứ ba Năm thứ tư Năm thứ năm\n\n6. Sinh viên được xếp loại học lực theo học kỳ căn cứ điểm trung bình học kỳ và xếp loại học lực từ đầu khóa căn cứ điểm trung bình tích lũy như sau: GPA hoặc CPA < 1,0 1,0-1,99 2,0-2,49 2,5-3,19 3,2-3,59 3,6-4,0 Xếp loại Kém Yếu Trung bình Khá Giỏi Xuất sắc\n\n7. Trong trường hợp cần thiết, điểm trung bình học kỳ và điểm trung bình tích lũy đạt từ loại trung bình trở lên có thể được quy đổi tương đương sang thang điểm 10 theo quy",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.5558740930027115
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p13_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 13,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "i ĐHBK Hà Nội.\n\n4. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 50% khối lượng chương trình học tập toàn khóa.\n\n5. Sinh viên đã có quyết định cho thôi học hoặc buộc thôi học, nếu thi lại và trúng tuyển thì phải học lại toàn bộ chương trình, ngoại trừ chương trình Giáo dục quốc phòng - an ninh đã được cấp chứng chỉ.\n\nĐiều 12. Ý kiến phản hồi của người học, đánh giá kết quả học tập\n\n1. Kết thúc mỗi học kỳ, sinh viên tham gia khảo sát lấy ý kiến phản hồi về các điều kiện bảo đảm chất",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2300,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.5102896581639754
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "Tổng thời gian sinh viên đại học được nghỉ học tạm thời vì nhu cầu cá nhân là bao nhiêu học kỳ?",
+    "gold_page": 16,
+    "evidence_quote": "Tổng thời gian nghỉ học tạm thời vì nhu cầu cá nhân không quá 04 học kỳ chính đối với CTĐT có thời gian thiết kế 4 năm",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p16_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 16,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "tiến độ.\n\nc) Thời gian nghỉ học tạm thời do sinh viên được điều động vào lực lượng vũ trang (là thời gian được ghi trong quyết định của cấp có thẩm quyền) không tính vào thời gian học chậm tiến độ.\n\nd) Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại điểm b và điểm c khoản 2 Điều này, sinh viên phải học ít nhất một học kỳ. Thời gian nghỉ học tối đa cho phép là 04 học kỳ chính và được tính vào thời gian học chậm tiến độ. Sinh viên thuộc diện này sẽ bị xét buộc thôi học",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6394017401394861
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p26_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 26,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "rị trong thời gian dài, hoặc nghỉ thai sản theo quy định được phép nghỉ học tạm thời. T hời gian nghỉ học tạm thời (là thời gian được ghi trong giấy xác nhận của cơ sở khám, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế) không tính vào thời gian chậm tiến độ nếu tổng cộng không vượt quá 2 học kỳ chính; thời gian nghỉ trên 2 học kỳ được tính vào thời gian học chậm tiến độ.\n\n3. Đối với trường hợp xin nghỉ học tạm thời vì những lý do khác với lý do tại khoản 1 và khoản 2 Điều này, học viên phải",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6079822343236511
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p16_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 16,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "tạm thời, thời gian nghỉ học tối đa và việc tiếp nhận trở lại học được quy định như sau:\n\na) Sinh viên được nghỉ học tạm thời nếu có quyết định cho phép nghỉ học tạm thời của Giám đốc ĐHBK Hà Nội.\n\nb) Thời gian nghỉ học tạm thời do sinh viên bị ốm, thai sản hoặc tai nạn buộc phải điều trị thời gian dài không tính vào thời gian chậm tiến độ nếu tổng cộng không vượt quá 04 học kỳ chính; thời gian nghỉ trên 04 học kỳ được tính vào thời gian học chậm tiến độ.\n\nc) Thời gian nghỉ học tạm thời do sinh",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.6012943696137272
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "Sinh viên đại học được đăng ký học chương trình thứ hai sớm nhất khi nào và cần đạt điểm TBTL tối thiểu bao nhiêu?",
+    "gold_page": 18,
+    "evidence_quote": "xếp trình độ năm thứ hai của chương trình thứ nhất và phải đạt một trong hai điều kiện sau: a) Có điểm TBTL đạt từ 2,50 trở lên",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p18_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 18,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "14\n\nĐiều 18. Học cùng lúc hai chương trình\n\n1. Sinh viên thuộc hình thức đào tạo chính quy có thể đăng ký học thêm các học phần của một CTĐT khác, nhưng chỉ được hưởng các quyền lợi chính thức và được xem xét công nhận tốt nghiệp chương trình thứ hai khi đã đăng ký thành công học chương trình thứ hai.\n\n2. Sinh viên được phép đăng ký học chương trình thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của chương trình thứ nhất. Tại thời điểm đăng ký, sinh viên phải có học lực tính theo điểm tru",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.6053778897434146
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p18_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 18,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "g ký, sinh viên phải có học lực tính theo điểm trung bình tích lũy (CPA) xếp loại từ trung bình trở lên và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh.\n\n3. Trong thời gian học CTĐT thứ hai, sinh viên phải luôn đảm bảo khối lượng học tập ngành thứ nhất theo quy định với điểm CPA từ trung bình trở lên và không nằm trong diện bị cảnh báo học tập. Sinh viên không duy trì được kết quả này sẽ bị loại khỏi danh sách đăng ký học chương trình thứ hai.\n\n4. Thời gian tối đa",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.5878238906493221
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p18_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 18,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ký học chương trình thứ hai.\n\n4. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là thời gian tối đa quy định cho chương trình thứ nhất.\n\n5. Khi học chương trình thứ hai, sinh viên được công nhận TC của những học phần có nội dung và khối lượng học tập tương đương ở chương trình thứ nhất, những học phần được công nhận tương đương này sẽ được cho điểm miễn (điểm R). Các học phần chung giữa hai CTĐT sẽ được công nhận và tính điểm cho cả CTĐT thứ hai.\n\n6. Sinh viên học",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.5821236329809035
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "Quy chế quy định có mấy mức cảnh báo học tập đối với sinh viên trình độ đại học?",
+    "gold_page": 18,
+    "evidence_quote": "có 2 mức cảnh báo học tập: Cảnh báo mức 1 và Cảnh báo mức 2",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p18_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 18,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "học tập và buộc thôi học\n\n1. Kết quả học tập được đánh giá vào cuối mỗi học kỳ chính để xác định mức độ cảnh báo học tập với sinh viên và được quy định như sau:\n\na) Nâng một mức cảnh báo học tập đối với sinh viên có số TC không đạt trong học kỳ lớn hơn 8.\n\nb) Nâng hai mức cảnh báo học tập đối với sinh viên có số TC không đạt trong học kỳ lớn hơn 16 hoặc tự ý bỏ học, không đăng ký học tập.\n\nc) Áp dụng cảnh báo học tập mức 3 đối với sinh viên có số TC nợ đọng từ đầu khóa lớn hơn 24.\n\nd) Sinh viên",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2300,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.6803236471463879
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p19_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 19,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "15\n\ntập này không phụ thuộc vào điều kiện nâng mức cảnh báo học tập tại mục a và mục b khoản này.\n\ne) Không xét cảnh báo học tập với học kỳ hè.\n\n2. Hạn chế khối lượng học tập là hình thức buộc những sinh viên đang bị cảnh báo học tập từ mức 2 trở lên đăng ký số TC học phần ít hơn bình thường tại học kỳ 1 của năm học, cụ thể như sau:\n\na) Sinh viên thuộc các CTĐT chuẩn được đăng ký tối đa 14 TC và tối thiểu 8 TC cho một học kỳ chính;\n\nb) Sinh viên thuộc các chương trình ELITECH và các CTĐT hợp tác",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5938987837458788
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p18_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 18,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ố TC nợ đọng từ đầu khóa lớn hơn 24.\n\nd) Sinh viên đang bị cảnh báo học tập mức 1 và mức 2, nếu số TC không đạt trong học kỳ nhỏ hơn hoặc bằng 4 thì được hạ một mức cảnh báo học tập.\n\nđ) Sinh viên đang bị cảnh báo học tập mức 3, nếu số TC nợ đọng từ đầu khóa nhỏ hơn hoặc bằng 24 thì được hạ cảnh báo học tập xuống mức 2. Việc hạ mức cảnh báo học",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2596,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.565775945634182
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "Trường hợp nào về cảnh báo học tập sẽ khiến sinh viên đại học bị buộc thôi học?",
+    "gold_page": 19,
+    "evidence_quote": "Bị cảnh báo học tập mức 2 ở hai học kỳ chính liên tiếp",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p18_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 18,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "học tập và buộc thôi học\n\n1. Kết quả học tập được đánh giá vào cuối mỗi học kỳ chính để xác định mức độ cảnh báo học tập với sinh viên và được quy định như sau:\n\na) Nâng một mức cảnh báo học tập đối với sinh viên có số TC không đạt trong học kỳ lớn hơn 8.\n\nb) Nâng hai mức cảnh báo học tập đối với sinh viên có số TC không đạt trong học kỳ lớn hơn 16 hoặc tự ý bỏ học, không đăng ký học tập.\n\nc) Áp dụng cảnh báo học tập mức 3 đối với sinh viên có số TC nợ đọng từ đầu khóa lớn hơn 24.\n\nd) Sinh viên",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2300,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.657234768267848
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p19_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 19,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "15\n\ntập này không phụ thuộc vào điều kiện nâng mức cảnh báo học tập tại mục a và mục b khoản này.\n\ne) Không xét cảnh báo học tập với học kỳ hè.\n\n2. Hạn chế khối lượng học tập là hình thức buộc những sinh viên đang bị cảnh báo học tập từ mức 2 trở lên đăng ký số TC học phần ít hơn bình thường tại học kỳ 1 của năm học, cụ thể như sau:\n\na) Sinh viên thuộc các CTĐT chuẩn được đăng ký tối đa 14 TC và tối thiểu 8 TC cho một học kỳ chính;\n\nb) Sinh viên thuộc các chương trình ELITECH và các CTĐT hợp tác",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5736327366175563
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p27_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 27,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "ây:\n\na) Học viên học chậm tiến độ quá thời gian cho phép, hoặc không còn đủ khả năng tốt nghiệp trong thời gian cho phép theo quy định tại điểm a khoản 3 Điều 3 Quy chế này.\n\nb) Học viên không đăng ký học tập trong hai học kỳ liên tiếp.\n\nc) Học viên bị truy cứu trách nhiệm hình sự hoặc vi phạm quy chế học tập, quy chế thi tới mức phải buộc thôi học.",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 801,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.5714643204371568
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "Chương trình đào tạo kỹ sư chuyên sâu đặc thù có thời gian thiết kế và khối lượng học tập là bao nhiêu?",
+    "gold_page": 20,
+    "evidence_quote": "CTĐT kỹ sư có thời gian thiết kế là 1,5 năm và khối lượng học tập 60 TC",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "2\n\nưu hóa thời gian đào tạo cho người học. CTĐT tích hợp cử nhân-kỹ sư, cử nhân-thạc sĩ có thời gian thiết kế là 5,5 năm và khối lượng học tập 180 TC. CTĐT tích hợp bao gồm hai bậc trình độ: Cử nhân (thời gian đào tạo 4 năm, trình độ đại học, cấp bằng cử nhân ) và kỹ sư (thời gian đào tạo 1,5 năm, cấp bằng kỹ sư trình độ bậc 7) hoặc thạc sĩ (thời gian đào tạo 1,5 năm, cấp bằng thạc sĩ). Tính tích hợp được thể hiện bằng việc thiết kế các mô đun học phần trong chương trình cử nhân có kiến thức nền",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.6318812916468263
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "h cấp bằng kỹ sư và thạc sĩ.\n\nb) Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian thiết kế để hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng tín chỉ được công nhận và miễn trừ cho người học. Thời gian chậm tiến độ không được vượt quá 3 học kỳ chính và không vượt quá 2 lần thời gian thiết kế để hoàn thành khóa học.\n\nc) Thời gian đào tạo chuẩn của trình độ tiến sĩ từ 3 năm đến 4 năm.",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.5958680453454317
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "hư sau: Chương trình Người học Thời gian Khối lượng tối thiểu Cử nhân Tốt nghiệp THPT 4 năm 132 tín chỉ Kỹ sư Tốt nghiệp cử nhân theo chương trình tích hợp 1,5 năm 48 tín chỉ Tốt nghiệp cử nhân 2 năm 60 tín chỉ Thạc sĩ Tốt nghiệp cử nhân 2 năm 60 tín chỉ Tốt nghiệp cử nhân theo chương trình tích hợp 1,5 năm 48 tín chỉ Tiến sĩ Tốt nghiệp thạc sĩ 3 năm 106 tín chỉ Tốt nghiệp đại học 4 năm 151 tín chỉ\n\n7. Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 2750,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.5925874259630355
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Khối lượng học tập toàn khóa của chương trình đào tạo trình độ thạc sĩ tại ĐHBK Hà Nội là bao nhiêu tín chỉ?",
+    "gold_page": 23,
+    "evidence_quote": "CTĐT thạc sĩ có khối lượng học tập từ 60 đến 65 TC",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p13_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 13,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "i ĐHBK Hà Nội.\n\n4. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 50% khối lượng chương trình học tập toàn khóa.\n\n5. Sinh viên đã có quyết định cho thôi học hoặc buộc thôi học, nếu thi lại và trúng tuyển thì phải học lại toàn bộ chương trình, ngoại trừ chương trình Giáo dục quốc phòng - an ninh đã được cấp chứng chỉ.\n\nĐiều 12. Ý kiến phản hồi của người học, đánh giá kết quả học tập\n\n1. Kết thúc mỗi học kỳ, sinh viên tham gia khảo sát lấy ý kiến phản hồi về các điều kiện bảo đảm chất",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 2300,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.6201280892601891
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p13_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 13,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "ện đồ án tốt nghiệp/khóa luận tốt nghiệp tại một cơ sở trong nước (cơ sở giáo dục đại học, viện nghiên cứu, doanh nghiệp,…) hoặc tại một cơ sở đào tạo ở nước ngoài theo chương trình trao đổi sinh viên đã được ký kết nhưng phải bảo vệ tại ĐHBK Hà Nội để được đánh giá và cho đ iểm. Với sinh viên thuộc các CTĐT theo hình thức VLVH tại đơn vị liên kết, việc đánh giá đồ án tốt nghiệp/khóa luận tốt nghiệp được phép thực hiện tại đơn vị liên kết hoặc tại ĐHBK Hà Nội.\n\n4. Khối lượng tối đa được công nhậ",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.5806268529879096
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "đa được phép học tại ĐHBK Hà Nội không quá 2 lần thời gian theo kế hoạch học tập chuẩn hoặc thời gian thiết kế đối với đào tạo liên thông.\n\nĐiều 4. Tín chỉ và học phần\n\n1. Tín chỉ là đơn vị đo khối lượng học tập. Một TC được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá.",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 2645,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.5780889201459298
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "Chuẩn ngoại ngữ đầu ra để học viên được bảo vệ luận văn thạc sĩ là tương đương bậc mấy?",
+    "gold_page": 24,
+    "evidence_quote": "Đạt chuẩn ngoại ngữ đầu ra tương đương bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc",
+    "filter_used": {
+      "chapter": "Chương IV"
+    },
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p25_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 25,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "21\n\nhoàn toàn bằng ngôn ngữ nước ngoài. Yêu cầu ngoại ngữ đầu vào và ngoại ngữ đầu ra phải cùng một ngôn ngữ.\n\n3. Người hướng dẫn và phản biện xác nhận bản thảo luận văn đã đáp ứng đầy đủ các yêu cầu về chất lượng và nội dung khoa học để đưa ra bảo vệ.\n\nĐiều 32. Điểm luận văn thạc sĩ\n\n1. Điểm luận văn thạc sĩ là điểm bảo vệ luận văn cộng điểm thưởng công bố khoa học của học viên (nếu có), được quy định như sau:\n\na) Điểm bảo vệ luận văn là trung bình cộng điểm của các thành viên hội đồng đánh giá",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.7046564017034159
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p24_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 24,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;\n\nc) Tuân thủ quy định về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ.\n\n2. Quyển thuyết minh luận văn phải đáp ứng quy cách theo hướng dẫn của ĐHBK Hà Nội về hình thức, cách trình bày luận văn.\n\nĐiều 31. Điều kiện được bảo vệ luận văn thạc sĩ Học viên có đủ các điều kiện sau đây thì được bảo vệ luận văn thạc sĩ:\n\n1. Đã hoàn thành và đạt các học phần theo yêu cầu của CTĐT.\n\n2. Đạt chuẩn ngoại ngữ đ",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6261711589638947
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p25_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 25,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "iên quan đến nội dung luận văn.\n\nĐiều 33. Bảo vệ luận văn lần thứ hai\n\n1. Trong trường hợp luận văn không đạt và học viên còn được phép học tối thiểu 3 tháng, học viên được phép chỉnh sửa, bổ sung luận văn để bảo vệ lần thứ hai trong thời hạn 3 tháng tính từ ngày bảo vệ luận văn lần thứ nhất.\n\n2. Trong trường hợp luận văn bảo vệ lần thứ hai vẫn không đạt yêu cầu, nếu học viên có nguyện vọng và còn được phép học tại ĐHBK Hà Nội đủ 6 tháng theo quy định về thời gian học tập tối đa tại điểm a khoản",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.5889486453883643
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Điểm luận văn thạc sĩ được đánh giá theo thang điểm nào và đạt yêu cầu ở mức điểm tối thiểu bao nhiêu?",
+    "gold_page": 25,
+    "evidence_quote": "thang điểm 10, làm tròn đến 01 chữ số thập phân. Luận văn đạt yêu cầu khi điểm luận văn đạt từ 5,5 điểm trở lên",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p29_c4",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 29,
+        "chapter": "Chương V: Quy định đào tạo trình độ tiến sĩ",
+        "text": "đánh giá theo hình thức báo cáo khoa học trước tiểu ban đánh giá. Chuyên đề tiến sĩ được đánh giá là đạt nếu điểm trung bình của tiểu ban đạt từ điểm 5,5 trở lên theo thang điểm 10.\n\nĐiều 40. Luận án tiến sĩ\n\n1. Luận án tiến sĩ là kết quả nghiên cứu khoa học của NCS, trong đó chứa đựng những đóng góp mới về lý luận và thực tiễn ở lĩnh vực chuyên môn, có giá trị trong việc phát triển, gia tăng tri thức khoa học và giải quyết trọn vẹn vấn đề đặt ra của đề tài luận án.\n\n2. Quyển thuyết minh luận á",
+        "metadata": {
+          "chapter": "Chương V: Quy định đào tạo trình độ tiến sĩ",
+          "char_end": 2300,
+          "strategy": "A",
+          "char_start": 1800,
+          "chunk_index": 4
+        },
+        "score": 0.6157278833390558
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p25_c1",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 25,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "ình cộng điểm của các thành viên hội đồng đánh giá luận văn có mặt trong buổi bảo vệ và được làm tròn đến 2 chữ số thập phân, trong đó mỗi thành viên chấm điểm theo thang 10, có thể lẻ tới 0,5.\n\nb) Điểm thưởng công bố khoa học đối với học viên có thành tích công bố khoa học sau đây: có bài báo khoa học liên quan đến nội dung luận văn đã được công bố (hoặc chấp nhận đăng) trên tạp chí khoa học hoặc tuyển tập hội nghị khoa học; có báo cáo tổng kết đề tài khoa học công nghệ cấp Đại học do học viên",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 950,
+          "strategy": "A",
+          "char_start": 450,
+          "chunk_index": 1
+        },
+        "score": 0.5683247109384512
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p25_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 25,
+        "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+        "text": "21\n\nhoàn toàn bằng ngôn ngữ nước ngoài. Yêu cầu ngoại ngữ đầu vào và ngoại ngữ đầu ra phải cùng một ngôn ngữ.\n\n3. Người hướng dẫn và phản biện xác nhận bản thảo luận văn đã đáp ứng đầy đủ các yêu cầu về chất lượng và nội dung khoa học để đưa ra bảo vệ.\n\nĐiều 32. Điểm luận văn thạc sĩ\n\n1. Điểm luận văn thạc sĩ là điểm bảo vệ luận văn cộng điểm thưởng công bố khoa học của học viên (nếu có), được quy định như sau:\n\na) Điểm bảo vệ luận văn là trung bình cộng điểm của các thành viên hội đồng đánh giá",
+        "metadata": {
+          "chapter": "Chương IV: Quy định đào tạo trình độ thạc sĩ",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5622400283572702
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "Thời gian đào tạo tiêu chuẩn đối với nghiên cứu sinh tiến sĩ có bằng thạc sĩ và có bằng cử nhân là bao lâu?",
+    "gold_page": 28,
+    "evidence_quote": "03 năm đối với người có bằng thạc sĩ và 04 năm đối với người có bằng cử nhân",
+    "filter_used": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "matched_rank": null,
+    "matched_chunk_id": null,
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p7_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 7,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "h cấp bằng kỹ sư và thạc sĩ.\n\nb) Đối với sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian thiết kế để hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng tín chỉ được công nhận và miễn trừ cho người học. Thời gian chậm tiến độ không được vượt quá 3 học kỳ chính và không vượt quá 2 lần thời gian thiết kế để hoàn thành khóa học.\n\nc) Thời gian đào tạo chuẩn của trình độ tiến sĩ từ 3 năm đến 4 năm.",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6630024413839488
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c5",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "hư sau: Chương trình Người học Thời gian Khối lượng tối thiểu Cử nhân Tốt nghiệp THPT 4 năm 132 tín chỉ Kỹ sư Tốt nghiệp cử nhân theo chương trình tích hợp 1,5 năm 48 tín chỉ Tốt nghiệp cử nhân 2 năm 60 tín chỉ Thạc sĩ Tốt nghiệp cử nhân 2 năm 60 tín chỉ Tốt nghiệp cử nhân theo chương trình tích hợp 1,5 năm 48 tín chỉ Tiến sĩ Tốt nghiệp thạc sĩ 3 năm 106 tín chỉ Tốt nghiệp đại học 4 năm 151 tín chỉ\n\n7. Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 2750,
+          "strategy": "A",
+          "char_start": 2250,
+          "chunk_index": 5
+        },
+        "score": 0.6259528043605648
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p6_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 6,
+        "chapter": "Chương I: Những quy định chung",
+        "text": "2\n\nưu hóa thời gian đào tạo cho người học. CTĐT tích hợp cử nhân-kỹ sư, cử nhân-thạc sĩ có thời gian thiết kế là 5,5 năm và khối lượng học tập 180 TC. CTĐT tích hợp bao gồm hai bậc trình độ: Cử nhân (thời gian đào tạo 4 năm, trình độ đại học, cấp bằng cử nhân ) và kỹ sư (thời gian đào tạo 1,5 năm, cấp bằng kỹ sư trình độ bậc 7) hoặc thạc sĩ (thời gian đào tạo 1,5 năm, cấp bằng thạc sĩ). Tính tích hợp được thể hiện bằng việc thiết kế các mô đun học phần trong chương trình cử nhân có kiến thức nền",
+        "metadata": {
+          "chapter": "Chương I: Những quy định chung",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.6239807248377942
+      }
+    ],
+    "strategy": "A"
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Quy định về việc chuyển chương trình đào tạo tại Điều 17 được chính thức áp dụng từ thời điểm nào?",
+    "gold_page": 34,
+    "evidence_quote": "học kỳ 2 năm học 2024-2025",
+    "filter_used": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_rank": 1,
+    "matched_chunk_id": "A_quy_che_dao_tao_dhbk_2025_p34_c3",
+    "hits": [
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p34_c3",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 34,
+        "chapter": "Chương VI: Tổ chức thực hiện",
+        "text": "m 2023 của Giám đốc ĐHBK Hà Nội.\n\n2. Quy chế này được áp dụng từ học kỳ 1 năm học 2025-2026 cho tất cả các khóa đào tạo, trừ một số điều, khoản như sau:\n\na) Điểm a khoản 2 Điều 15 (về việc giảm hạng tốt nghiệp) được áp dụng với các khóa tuyển sinh từ năm 2022.\n\nb) Khoản 1, khoản 2 và khoản 3 Điều 17 (về việc chuyển chương trình đào tạo) được áp dụng từ học kỳ 2 năm học 2024-2025.\n\nc) Khoản 2 Điều 18 (về việc học cùng lúc hai chương trình) được áp dụng với các khóa tuyển sinh từ năm 2022.\n\nd) Kho",
+        "metadata": {
+          "chapter": "Chương VI: Tổ chức thực hiện",
+          "char_end": 1850,
+          "strategy": "A",
+          "char_start": 1350,
+          "chunk_index": 3
+        },
+        "score": 0.6023819564026951
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p17_c0",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 17,
+        "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+        "text": "13\n\n5. Tự nguyện thôi học: Sinh viên thấy không có đủ điều kiện hoặc không muốn tiếp tục học tại ĐHBK Hà Nội có thể làm đơn đề nghị thôi học và được xem xét cho thôi học. Sinh viên đã có quyết định cho thôi học không được tiếp nhận trở lại.\n\nĐiều 17. Chuyển chương trình đào tạo, hình thức đào tạo\n\n1. Sinh viên học hết năm học thứ nhất (tính cả thời gian nghỉ tạm thời nếu có) được xem xét chuyển sang học một CTĐT khác nếu đáp ứng đủ các điều kiện sau:\n\na) Đáp ứng điều kiện trúng tuyển của CTĐT mu",
+        "metadata": {
+          "chapter": "Chương II: Quy định đào tạo trình độ đại học",
+          "char_end": 500,
+          "strategy": "A",
+          "char_start": 0,
+          "chunk_index": 0
+        },
+        "score": 0.5773370747586187
+      },
+      {
+        "chunk_id": "A_quy_che_dao_tao_dhbk_2025_p34_c2",
+        "document_id": "quy_che_dao_tao_dhbk_2025",
+        "source": "https://ctt.hust.edu.vn/Upload/Nguy%E1%BB%85n%20Qu%E1%BB%91c%20%C4%90%E1%BA%A1t/files/DTDH_QDQC/Hoctap/QCDT_2025_5445_QD-DHBK.pdf",
+        "page": 34,
+        "chapter": "Chương VI: Tổ chức thực hiện",
+        "text": "Nội thực hiện theo quy định của Quy chế tuyển sinh và đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 08/2017/TT-BGDĐT ngày 14 tháng 4 năm 2017 của Bộ trưởng Bộ GDĐT và Quy định số 2764/QĐ -ĐHBK-SĐH ngày 28 tháng 8 năm 2017 của Hiệu trưởng Trường ĐHBK Hà Nội.\n\nĐiều 48. Hiệu lực thi hành\n\n1. Quy chế này có hiệu lực thi hành từ học kỳ 1 năm học 2025-2026 và thay thế Quy chế đào tạo ban hành theo Quyết định số 4600/QĐ-ĐHBK ngày 09 tháng 6 năm 2023 của Giám đốc ĐHBK Hà Nội.\n\n2. Quy chế này đ",
+        "metadata": {
+          "chapter": "Chương VI: Tổ chức thực hiện",
+          "char_end": 1400,
+          "strategy": "A",
+          "char_start": 900,
+          "chunk_index": 2
+        },
+        "score": 0.5712610449546769
+      }
+    ],
+    "strategy": "A"
+  }
+]

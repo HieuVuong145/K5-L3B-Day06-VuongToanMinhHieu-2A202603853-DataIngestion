@@ -1,0 +1,76 @@
+{
+  "A": {
+    "dev": {
+      "hit1": "3/15",
+      "hit1_pct": 20.0,
+      "hit3": "3/15",
+      "hit3_pct": 20.0,
+      "total": 15
+    },
+    "test": {
+      "hit1": "1/5",
+      "hit1_pct": 20.0,
+      "hit3": "1/5",
+      "hit3_pct": 20.0,
+      "total": 5
+    },
+    "all": {
+      "hit1": "4/20",
+      "hit1_pct": 20.0,
+      "hit3": "4/20",
+      "hit3_pct": 20.0,
+      "total": 20
+    }
+  },
+  "B": {
+    "dev": {
+      "hit1": "2/15",
+      "hit1_pct": 13.33,
+      "hit3": "3/15",
+      "hit3_pct": 20.0,
+      "total": 15
+    },
+    "test": {
+      "hit1": "1/5",
+      "hit1_pct": 20.0,
+      "hit3": "1/5",
+      "hit3_pct": 20.0,
+      "total": 5
+    },
+    "all": {
+      "hit1": "3/20",
+      "hit1_pct": 15.0,
+      "hit3": "4/20",
+      "hit3_pct": 20.0,
+      "total": 20
+    }
+  },
+  "C": {
+    "dev": {
+      "hit1": "2/15",
+      "hit1_pct": 13.33,
+      "hit3": "3/15",
+      "hit3_pct": 20.0,
+      "total": 15
+    },
+    "test": {
+      "hit1": "1/5",
+      "hit1_pct": 20.0,
+      "hit3": "1/5",
+      "hit3_pct": 20.0,
+      "total": 5
+    },
+    "all": {
+      "hit1": "3/20",
+      "hit1_pct": 15.0,
+      "hit3": "4/20",
+      "hit3_pct": 20.0,
+      "total": 20
+    }
+  },
+  "usage": {
+    "total_tokens": 74596,
+    "estimated_cost_usd": 0.00149,
+    "model": "openai/text-embedding-3-small"
+  }
+}
